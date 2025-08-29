@@ -1,6 +1,4 @@
-package application;
-
-import aumentoS.Employee;
+package aumentoS.application;
 
 import java.util.Locale;
 import java.util.Scanner;

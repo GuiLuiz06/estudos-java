@@ -1,4 +1,4 @@
-package aumentoS;
+package aumentoS.application;
 
 public class Employee {
 
